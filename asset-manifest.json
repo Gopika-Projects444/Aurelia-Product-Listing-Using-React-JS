@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Aurelia-Product-Listing-Using-React-JS/static/css/main.3d9ef7a6.css",
-    "main.js": "/Aurelia-Product-Listing-Using-React-JS/static/js/main.15d5b120.js",
+    "main.js": "/Aurelia-Product-Listing-Using-React-JS/static/js/main.f0ae55ca.js",
     "index.html": "/Aurelia-Product-Listing-Using-React-JS/index.html",
     "main.3d9ef7a6.css.map": "/Aurelia-Product-Listing-Using-React-JS/static/css/main.3d9ef7a6.css.map",
-    "main.15d5b120.js.map": "/Aurelia-Product-Listing-Using-React-JS/static/js/main.15d5b120.js.map"
+    "main.f0ae55ca.js.map": "/Aurelia-Product-Listing-Using-React-JS/static/js/main.f0ae55ca.js.map"
   },
   "entrypoints": [
     "static/css/main.3d9ef7a6.css",
-    "static/js/main.15d5b120.js"
+    "static/js/main.f0ae55ca.js"
   ]
 }
