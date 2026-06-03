@@ -4,7 +4,7 @@ const products = [
     name: "Wireless Headphones",
     price: 2999,
     category: "Electronics",
-    image: "/images/head.jpg",
+    image: process.env.PUBLIC_URL + "/images/head.jpg",
     description: "High-quality wireless headphones"
   },
   {
@@ -12,7 +12,7 @@ const products = [
     name: "Titan Watch",
     price: 99999,
     category: "Electronics",
-    image: "/images/titan.jpg",
+    image: process.env.PUBLIC_URL + "/images/titan.jpg",
     description: "It is designed to be worn on the wrist or carried in a pocket"
   },
   {
@@ -20,7 +20,7 @@ const products = [
     name: "Laptop",
     price: 55000,
     category: "Electronics",
-    image: "/images/laps.jpg",
+    image: process.env.PUBLIC_URL + "/images/laps.jpg",
     description: "Powerful laptop for work and study"
   },
   {
@@ -28,7 +28,7 @@ const products = [
     name: "Running Shoes",
     price: 2499,
     category: "Fashion",
-    image: "/images/shoe.jpg",
+    image: process.env.PUBLIC_URL + "/images/shoe.jpg",
     description: "Comfortable running shoes"
   },
   {
@@ -36,7 +36,7 @@ const products = [
     name: "T-Shirt",
     price: 799,
     category: "Fashion",
-    image: "/images/shirt.jpg",
+    image: process.env.PUBLIC_URL + "/images/shirt.jpg",
     description: "Cotton casual t-shirt"
   },
   {
@@ -44,7 +44,7 @@ const products = [
     name: "Backpack",
     price: 1299,
     category: "Accessories",
-    image: "/images/bag.jpg",
+    image: process.env.PUBLIC_URL + "/images/bag.jpg",
     description: "Stylish travel backpack"
   },
   {
@@ -52,7 +52,7 @@ const products = [
     name: "Sunglasses",
     price: 999,
     category: "Accessories",
-    image: "/images/glass.jpg",
+    image: process.env.PUBLIC_URL + "/images/glass.jpg",
     description: "UV protected sunglasses"
   },
   {
@@ -60,7 +60,7 @@ const products = [
     name: "Book",
     price: 499,
     category: "Education",
-    image: "/images/bo.jpg",
+    image: process.env.PUBLIC_URL + "/images/bo.jpg",
     description: "Education book for students"
   },
   {
@@ -68,15 +68,15 @@ const products = [
     name: "Notebook",
     price: 149,
     category: "Education",
-    image: "/images/note.jpg",
+    image: process.env.PUBLIC_URL + "/images/note.jpg",
     description: "Premium quality notebook"
   },
   {
     id: 10,
-    name: "Vivo v6 5G Mobile Phone",
+    name: "Vivo V6 5G Mobile Phone",
     price: 18999,
     category: "Electronics",
-    image: "/images/mob.jpg",
+    image: process.env.PUBLIC_URL + "/images/mob.jpg",
     description: "Latest smartphone"
   }
 ];
